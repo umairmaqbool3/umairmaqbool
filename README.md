@@ -37,4 +37,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-#<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umairmaqbool3&show_icons=true&locale=en" alt="umairmaqbool3" /></p>
